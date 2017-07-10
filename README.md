@@ -16,7 +16,7 @@ terraform apply
 cd ..
 ```
 
-### And when you're edone
+### And when you're done
 ```
 terraform destroy
 ```
